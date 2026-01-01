@@ -1,16 +1,30 @@
-## Contributing to the World's Open Source Projects
+## About
 
-### Hi there 👋
+Artificial Intelligence Engineer at [Volt IQ](https://www.linkedin.com/company/volt-iq) specializing in enterprise-grade AI systems, software development, and data science.
 
-**kebamt/kebamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building reliable, efficient, and intelligent solutions with user-centric design.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- AI Engineer at Volt IQ
+- Developing secure on-premise AI solutions for enterprises
+- Building AI systems that prioritize data privacy and control
+- Contributing to open source projects
+
+## Professional Focus
+
+Creating enterprise AI solutions that are reliable, efficient, and user-focused.
+
+Specialized in on-premise AI deployment, ensuring complete data sovereignty and privacy for organizations.
+
+## Technical Expertise
+
+- Artificial Intelligence and Machine Learning
+- Enterprise AI Architecture
+- Software Engineering
+- Data Science and Engineering
+- On-Premise AI Solutions
+
+## Partnerships
+
+- [Dify Affiliate Program](https://affiliate.dify.ai/owb5hai3oc5a)
