@@ -28,3 +28,7 @@ Specialized in on-premise AI deployment, ensuring complete data sovereignty and 
 ## Partnerships
 
 - [Dify Affiliate Program](https://affiliate.dify.ai/owb5hai3oc5a)
+
+## Get in Touch
+
+Contact: [kebamt@volt-iq.com](mailto:kebamt@volt-iq.com)
