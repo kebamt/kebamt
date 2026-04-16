@@ -1,12 +1,12 @@
 ## About
 
-Artificial Intelligence Engineer at [Volt IQ](https://www.linkedin.com/company/volt-iq) specializing in enterprise-grade AI systems, software development, and data science.
+Artificial Intelligence Engineer at [Volt LogIQ®](https://www.linkedin.com/company/volt-logiq) specializing in enterprise-grade AI systems, software development, and data science.
 
 Focused on building reliable, efficient, and intelligent solutions with user-centric design.
 
 ## Current Work
 
-- AI Engineer at Volt IQ
+- AI Engineer at Volt LogIQ®
 - Developing secure on-premise AI solutions for enterprises
 - Building AI systems that prioritize data privacy and control
 - Contributing to open source projects
@@ -31,7 +31,7 @@ Specialized in on-premise AI deployment, ensuring complete data sovereignty and 
 
 ## Get in Touch
 
-Contact: [kebamt@volt-iq.com](mailto:kebamt@volt-iq.com)
+Contact: [kebamt@volt-logiq.com](mailto:kebamt@volt-logiq.com)
 
 ```
 [/admin]
